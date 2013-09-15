@@ -1,0 +1,7 @@
+bk-parent	父项目，只做集成与定义用。
+bk-core 	核心项目，定义dao与util。
+bk-spring	统统使用spring来
+
+bk-parent
+ |- pombak	pom备份
+     |- pom-1.xml	bk-core的hibernage配置
