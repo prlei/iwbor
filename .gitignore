@@ -10,7 +10,8 @@
 #dir
 /.metadata
 /.myeclipse
-/.settings
+*/.settings
+/RemoteSystemsTempFiles
 logs/
 target/
 
