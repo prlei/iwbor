@@ -1,4 +1,18 @@
 *.class
+*.classpath
+*.project
+*.log
+
+# Intellij project files
+*.iml
+.idea/
+
+#dir
+/.metadata
+/.myeclipse
+/.settings
+logs/
+target/
 
 # Package Files #
 *.jar
